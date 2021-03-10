@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html> <head> <title> First Try </title></head>
+<body> 
+<p>
+ <strong> My Name is Mouzam Rahman </strong> <hr> 
+<i>I Am 21 Year Old </i> <hr>
+<u> I Am From Faisalabad </u> <hr> 
+<i> BSIT From UniOFOkara </i><hr>
+ <small> Mouzam Khan </small> <hr> 
+</p>
+
+<h1>Open the Link For More Information</h1>
+<a href="http://www.facebook.com" target="_blank"> Facebook </a>
+<h1>Open the Link For More Information</h1>
+<a href="http://www.Youtube.com" target="_Self"> Youtube Self Link Check</a>
+<h1>  Open Mark Sheet </h1>
+<a href="MarkSheet.html" target="_blank"> Mark Sheet </a>
+<h1>  Open The link To Fill Form </h1>
+<a href="New Folder/Form.html" target="_blank"> Form </a>
+<h1>  Open The link for Inline CSS </h1>
+<a href="../Inline CSS.html" target="_blank"> Inline CSS </a>
+<h1> Open The Link For External CSS </h1>
+<a href="New Folder/External CSS.html" Target="_blank"> External CSS </a>
+
+</body>
+
+
+
+</html>
